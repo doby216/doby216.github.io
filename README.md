@@ -36,12 +36,12 @@ helpyourmath.com
     Graduation Date: Dec 2023
 
 ## Skills
-Javascript	⭐️⭐️⭐️⭐️⭐️	
-HTML	⭐️⭐️⭐️⭐️⭐️
-Java	⭐️⭐️⭐️⭐️⭐️	
-CSS	⭐️⭐️⭐️⭐️⭐️
-C++	⭐️⭐️⭐️⭐️	
-Python	⭐️⭐️⭐️
-Perl	⭐️⭐️⭐️		
-Chinese	⭐️⭐️⭐️⭐️⭐️	
-Japanese	⭐️
+* Javascript	⭐️⭐️⭐️⭐️⭐️	
+* HTML	⭐️⭐️⭐️⭐️⭐️
+* Java	⭐️⭐️⭐️⭐️⭐️	
+* CSS	⭐️⭐️⭐️⭐️⭐️
+* Python	⭐️⭐️⭐️⭐️⭐️
+* C++	⭐️⭐️⭐️⭐️	
+* Perl	⭐️⭐️⭐️		
+* Chinese	⭐️⭐️⭐️⭐️⭐️	
+* Japanese	⭐️
