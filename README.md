@@ -12,6 +12,7 @@ Undergraduate Student at Queens College-CUNY
     * Implemented a web application that tweets random anime pictures on Twitter on behalf of the users
     * Developed the user interface using HTML, CSS, and JavaScript, and the backend using NodeJS
     * Utilized the Twitter API and WAIFU.IM API, granted the user permissions by Oauth 2.0 authentication with PKCE
+
 ## Work Expereiences
 Coding Team Volunteer
 June 2022 - Present	
